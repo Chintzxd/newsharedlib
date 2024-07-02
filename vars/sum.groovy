@@ -1,4 +1,4 @@
-def sum(a,b)
+def newgit(repo)
 {
-   echo "the sum of ${a} and ${b} is ${a+b}"
+   git"${repo}"
 }
